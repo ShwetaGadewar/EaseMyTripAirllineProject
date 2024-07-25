@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[test case passed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-07-25T16:34:37 IST" name="Default suite" finished-at="2024-07-25T16:34:55 IST" duration-ms="17716">
+    <groups>
+    </groups>
+    <test started-at="2024-07-25T16:34:37 IST" name="Default test" finished-at="2024-07-25T16:34:55 IST" duration-ms="17716">
+      <class name="airline.Airline_Project.TC01">
+        <test-method signature="registrationEasemytrip()[pri:0, instance:airline.Airline_Project.TC01@46cdf8bd]" started-at="2024-07-25T16:34:37 IST" name="registrationEasemytrip" finished-at="2024-07-25T16:34:54 IST" duration-ms="16916" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[test case passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- registrationEasemytrip -->
+      </class> <!-- airline.Airline_Project.TC01 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
